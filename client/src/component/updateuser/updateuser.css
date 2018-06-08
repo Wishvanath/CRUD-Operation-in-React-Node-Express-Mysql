@@ -1,0 +1,29 @@
+.update_form{
+    height: 500px;
+    width: 500px;
+    background-color:rgb(47, 150, 201);
+    color:white;
+    border:1px solid rgb(4, 78, 121);
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.user_input{
+    width: 450px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.btn_submit{
+    margin-top:30px;
+    border:none;
+    background-color: #69150c;
+    color:white;
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    font-size: 20px;
+}
+.btn_submit:hover{
+    background-color: #b11a0a;
+    cursor: pointer;
+}
